@@ -21,3 +21,4 @@
 [01-Apr-2025 02:41:12 UTC] PHP Warning:  Undefined variable $parent_theme_name in /workspaces/UX308Assignment2/.wordpress/wp-content/mu-plugins/one-click-child-theme/templates/create_child_form.php on line 18
 [01-Apr-2025 04:03:54 UTC] PHP Fatal error:  Out of memory (allocated 41943040) (tried to allocate 2097152 bytes) in /workspaces/UX308Assignment2/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/register-product.php on line 160
 [01-Apr-2025 04:03:56 UTC] PHP Fatal error:  Out of memory (allocated 35651584) (tried to allocate 2097152 bytes) in /workspaces/UX308Assignment2/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/register-product.php on line 146
+[01-Apr-2025 04:05:05 UTC] PHP Fatal error:  Out of memory (allocated 33554432) (tried to allocate 2097152 bytes) in /workspaces/UX308Assignment2/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/register-product.php on line 144
